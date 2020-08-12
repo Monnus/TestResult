@@ -1,0 +1,15 @@
+	.dub{border-color: grey;
+		border-padding: 30px;}
+		
+			h1{color: orange;}
+						h3{color: orange;}
+
+			Body{background-color:gray;}
+		body{background-image: url("pics/121987_adapted_landscape_960x960.jpg");
+			background-size:300px;
+				font-size:20px; font-weight:800;
+				}
+				a:hover{color: green}
+				a:active{color:red;}
+				a{color:white;}
+			ul{font-weight:bold;}
